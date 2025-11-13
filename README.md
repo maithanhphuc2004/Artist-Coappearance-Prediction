@@ -1,14 +1,17 @@
 # 🎭 Artist Co-Appearance Prediction  
 *Dự đoán sự xuất hiện chung & gợi ý đối tác cho nghệ sĩ trong gameshow Việt Nam*
 
-![Stars](https://img.shields.io/github/stars/maithanhphuc2004/Artist-Coappearance-Prediction?style=flat-square)
-![Forks](https://img.shields.io/github/forks/maithanhphuc2004/Artist-Coappearance-Prediction?style=flat-square)
-![Issues](https://img.shields.io/github/issues/maithanhphuc2004/Artist-Coappearance-Prediction?style=flat-square)
-![Last Commit](https://img.shields.io/github/last-commit/maithanhphuc2004/Artist-Coappearance-Prediction?color=green&style=flat-square)
+![Similarity-RA](https://img.shields.io/badge/Similarity-Resource%20Allocation-blueviolet?style=flat-square)
+![Similarity-Jaccard](https://img.shields.io/badge/Similarity-Jaccard-green?style=flat-square)
+![Similarity-AA](https://img.shields.io/badge/Similarity-Adamic–Adar-orange?style=flat-square)
+![Similarity-CN](https://img.shields.io/badge/Similarity-Common%20Neighbors-yellow?style=flat-square)
+![Similarity-PA](https://img.shields.io/badge/Similarity-Preferential%20Attachment-red?style=flat-square)
 
-![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=flat-square)
-![Status](https://img.shields.io/badge/Status-Active-success?style=flat-square)
+![Model-RandomForest](https://img.shields.io/badge/Model-Random%20Forest-darkgreen?style=flat-square)
+![Model-XGBoost](https://img.shields.io/badge/Model-XGBoost-red?style=flat-square)
+![Model-LogisticRegression](https://img.shields.io/badge/Model-Logistic%20Regression-blue?style=flat-square)
+![Model-NeuralNetwork](https://img.shields.io/badge/Model-Neural%20Network-purple?style=flat-square)
+
 
 ---
 
