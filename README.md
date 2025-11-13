@@ -1,6 +1,7 @@
 # 🎭 Artist Co-Appearance Prediction  
 *Dự đoán sự xuất hiện chung & gợi ý đối tác cho nghệ sĩ trong gameshow Việt Nam*
 
+![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square&logo=python)
 ![Similarity-RA](https://img.shields.io/badge/Similarity-Resource%20Allocation-blueviolet?style=flat-square)
 ![Similarity-Jaccard](https://img.shields.io/badge/Similarity-Jaccard-green?style=flat-square)
 ![Similarity-AA](https://img.shields.io/badge/Similarity-Adamic–Adar-orange?style=flat-square)
